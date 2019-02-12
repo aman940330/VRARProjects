@@ -1,0 +1,20 @@
+{
+	"questions":
+		[
+			{
+				"time": 10,
+				"title": "Are we on a desert?",
+				"correct": false
+			},
+			{
+				"time": 15,
+				"title": "Are we still on Earth?",
+				"correct": true
+			},
+			{
+				"time": 20,
+				"title": "Did you start working on your game idea?",
+				"correct": true
+			}	
+		]
+}

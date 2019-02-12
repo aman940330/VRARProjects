@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vr Cabin Experience", "Assembly-CSharp.csproj", "{F9641BE6-1725-E302-BD79-50441C54E2AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vr Cabin Experience", "Assembly-CSharp-firstpass.csproj", "{D6EA82DF-79DE-0AB2-DC4E-F4D0178925F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9641BE6-1725-E302-BD79-50441C54E2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9641BE6-1725-E302-BD79-50441C54E2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9641BE6-1725-E302-BD79-50441C54E2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9641BE6-1725-E302-BD79-50441C54E2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6EA82DF-79DE-0AB2-DC4E-F4D0178925F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EA82DF-79DE-0AB2-DC4E-F4D0178925F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EA82DF-79DE-0AB2-DC4E-F4D0178925F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EA82DF-79DE-0AB2-DC4E-F4D0178925F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dance party augmented reality", "Dance party augmented reality.csproj", "{23C2E4AB-8B71-0EE1-34B0-C8CE51238C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dance party augmented reality.Editor", "Dance party augmented reality.Editor.csproj", "{837C8FEB-62A8-A75C-6D80-7FFB3D34D3D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23C2E4AB-8B71-0EE1-34B0-C8CE51238C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C2E4AB-8B71-0EE1-34B0-C8CE51238C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C2E4AB-8B71-0EE1-34B0-C8CE51238C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C2E4AB-8B71-0EE1-34B0-C8CE51238C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837C8FEB-62A8-A75C-6D80-7FFB3D34D3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837C8FEB-62A8-A75C-6D80-7FFB3D34D3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837C8FEB-62A8-A75C-6D80-7FFB3D34D3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837C8FEB-62A8-A75C-6D80-7FFB3D34D3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

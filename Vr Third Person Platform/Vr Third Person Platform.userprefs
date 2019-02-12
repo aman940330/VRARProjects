@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Assets\Scripts\HomeUIManager.cs">
+    <Files>
+      <File FileName="Assets\Assets\Scripts\PlayerController.cs" Line="116" Column="10" />
+      <File FileName="Assets\Assets\Scripts\HomeUIManager.cs" Line="35" Column="30" />
+      <File FileName="Assets\VR Standard Assets\Scripts\VRInput.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
